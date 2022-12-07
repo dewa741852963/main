@@ -43,7 +43,3 @@ class Solution:
             if complement in hashmap:
                 return [i, hashmap[complement]]
             hashmap[nums[i]] = i
-          
-          
-          
-   
