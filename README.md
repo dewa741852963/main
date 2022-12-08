@@ -16,25 +16,25 @@
 
 
 * 創建資料夾 
-	```linux
-	mkdir [資料夾名稱]  
-	touch [資料夾名稱]/[檔案名稱]    
-	git add [資料夾名稱]   
-	git commit -m "Add [資料夾名稱]"    
-	git pus
-	```
-	>**_注意一定要有檔案才可以創建資料夾_**  
-	>**_可以多個檔案一起 add 中間需要有空格_**   
-	>**_多個檔案git commit只需要下一次即可_**
+		```linux
+		mkdir [資料夾名稱]  
+		touch [資料夾名稱]/[檔案名稱]    
+		git add [資料夾名稱]   
+		git commit -m "Add [資料夾名稱]"    
+		git pus
+		```
+		>**_注意一定要有檔案才可以創建資料夾_**  
+		>**_可以多個檔案一起 add 中間需要有空格_**   
+		>**_多個檔案git commit只需要下一次即可_**
 
 * 刪除資料夾 
-	```linux
-	git rm -r [資料夾名稱]  
-	git commit -m "[資料夾名稱]"   
-	git push
-	```
-	>**_可以多個檔案一起刪除中間需要有空格_**  
-	>**_多個檔案git commit只需要下一次即可_**
+		```linux
+		git rm -r [資料夾名稱]  
+		git commit -m "[資料夾名稱]"   
+		git push
+		```
+		>**_可以多個檔案一起刪除中間需要有空格_**  
+		>**_多個檔案git commit只需要下一次即可_**
 
 * 上傳檔案
 	* 把想要上傳的檔案放到相對應的資料夾  
@@ -48,39 +48,7 @@
 		>**_可以多個檔案一起 add 中間需要有空格_**  
 		>**_git status 檢查上傳檔案是不是有變成綠色_**  
 		>**_多個檔案git commit只需要下一次即可_** 
-### 創建資料夾  
-```linux
-mkdir [資料夾名稱]  
-touch [資料夾名稱]/[檔案名稱]    
-git add [資料夾名稱]   
-git commit -m "Add [資料夾名稱]"    
-git pus
-```
->**_注意一定要有檔案才可以創建資料夾_**  
->**_可以多個檔案一起 add 中間需要有空格_**   
->**_多個檔案git commit只需要下一次即可_**  
-
-### 刪除資料夾
-```linux
-git rm -r [資料夾名稱]  
-git commit -m "[資料夾名稱]"   
-git push
-```
->**_可以多個檔案一起刪除中間需要有空格_**  
->**_多個檔案git commit只需要下一次即可_**
-
-### 上傳檔案
-把想要上傳的檔案放到相對應的資料夾  
-cd 到該資料夾底下
-```linux
-git add [檔案名稱]    
-git status    
-git commit -m "Add [檔案名稱]"  
-git push
-```
->**_可以多個檔案一起 add 中間需要有空格_**  
->**_git status 檢查上傳檔案是不是有變成綠色_**  
-**_多個檔案git commit只需要下一次即可_**  
+ 
 
 ### 參考資料
 1. https://progressbar.tw/posts/3
