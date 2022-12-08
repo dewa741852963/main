@@ -16,7 +16,7 @@
 
 
 * 創建資料夾  
-	* 需要安裝 [git-lfs](https://git-lfs.github.com/)  
+	* 
 		```linux
 		mkdir [資料夾名稱]  
 		touch [資料夾名稱]/[檔案名稱]     
