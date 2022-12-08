@@ -1,5 +1,5 @@
 # Github上傳方式
-'先打開 Git Bath   '
+'先打開 Git Bath'  
 'cd 到你要存放 Github 的位置'
 'git clone 你 Github 的網址'
 # 創建資料夾
