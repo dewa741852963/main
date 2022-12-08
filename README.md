@@ -4,7 +4,7 @@ cd 到你要存放 Github 的位置
 git clone 你 Github 的網址  
 
 # 資料超過25MB
-先安裝 https://git-lfs.github.com/  
+先安裝 <https://git-lfs.github.com/>  
 接下來的指令在每一次上傳一開始都需要下  
 git lfs install  
 git lfs track "*.zip" **_zip為超過25MB的檔案格式，如果有不只一種檔案格式超過25MB，此指令需要每一個格式都執行一次_**   
