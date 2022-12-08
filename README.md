@@ -28,3 +28,8 @@ git add [檔案名稱]  ### 可以多個檔案一起 add 中間需要有空格
 git status  ###檢查上傳檔案是不是有變成綠色  
 git commit -m "Add [檔案名稱]"  ###多個檔案也只需要下一次即可  
 git push  
+
+## 參考資料
+https://progressbar.tw/posts/3  
+https://medium.com/%E7%8B%90%E7%8B%B8%E7%9A%84%E7%A8%8B%E5%BC%8F%E6%A3%AE%E6%9E%97/%E6%96%B0%E5%A2%9E%E8%B3%87%E6%96%99%E5%A4%BE%E5%88%B0-git-905971819709  
+https://zlargon.gitbooks.io/git-tutorial/content/file/move.html  
