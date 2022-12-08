@@ -43,8 +43,8 @@ git status
 git commit -m "Add [檔案名稱]"  
 git push
 ```
-**_可以多個檔案一起 add 中間需要有空格_**
-**_git status 檢查上傳檔案是不是有變成綠色_**
+**_可以多個檔案一起 add 中間需要有空格_**  
+**_git status 檢查上傳檔案是不是有變成綠色_**  
 **_多個檔案git commit只需要下一次即可_**  
 
 ## 參考資料
