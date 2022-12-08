@@ -8,7 +8,7 @@
 * 資料超過25MB 
 	* 需要安裝 [git-lfs](https://git-lfs.github.com/)  
 	* 在每一次上傳一開始都需要下 
-	* git bash 指令  
+	* Git Bash 指令  
 	 	```linux 
 		git lfs install
 		git lfs track "*.zip"
@@ -17,7 +17,7 @@
 
 
 * 創建資料夾  
-	* git bash 指令  
+	* Git Bash 指令  
 		```linux
 		mkdir [資料夾名稱]  
 		touch [資料夾名稱]/[檔案名稱]     
@@ -30,7 +30,7 @@
 		>**_多個檔案git commit只需要下一次即可_**
 
 * 刪除資料夾  
-	* git bash 指令  
+	* Git Bash 指令  
 		```linux
 		git rm -r [資料夾名稱]  
 		git commit -m "[資料夾名稱]"   
@@ -42,7 +42,7 @@
 * 上傳檔案  
 	* 把想要上傳的檔案放到相對應的資料夾  
 	* cd 到該資料夾底下
-	* git bash 指令  
+	* Git Bash 指令  
 		```linux
 		git add [檔案名稱]    
 		git status    
