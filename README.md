@@ -5,7 +5,7 @@
 4. git clone 你 Github 的網址
 
 ---
-*### 資料超過25MB
+### * 資料超過25MB
 需要安裝 [git-lfs](https://git-lfs.github.com/)  
 在每一次上傳一開始都需要下  
 
