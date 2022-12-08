@@ -9,9 +9,9 @@
 	* 需要安裝 [git-lfs](https://git-lfs.github.com/)  
 	* 在每一次上傳一開始都需要下  
 	* ```linux
-git lfs install  
-git lfs track "*.zip"
-```  
+	git lfs install  
+	git lfs track "*.zip"
+	```  
 
 
  >**_zip為超過25MB的檔案格式，如果有不只一種檔案格式超過25MB，此指令需要每一個格式都執行一次_** 
