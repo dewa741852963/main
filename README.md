@@ -7,12 +7,12 @@ git clone 你 Github 的網址
 先安裝 https://git-lfs.github.com/  
 接下來的指令在每一次上傳一開始都需要下  
 git lfs install  
-git lfs track "*.zip" ###zip為超過25MB的檔案格式，如果有不只一種檔案格式超過25MB，此指令需要每一個格式都執行一次  
+git lfs track "*.zip" **zip為超過25MB的檔案格式，如果有不只一種檔案格式超過25MB，此指令需要每一個格式都執行一次**   
 
 # 創建資料夾
 mkdir [資料夾名稱]  
-touch [資料夾名稱]/[檔案名稱]  ###注意一定要有檔案才可以創建資料夾  
-git add [資料夾名稱]  ### 可以多個檔案一起 add 中間需要有空格  
+touch [資料夾名稱]/[檔案名稱]  **注意一定要有檔案才可以創建資料夾**  
+git add [資料夾名稱]  **可以多個檔案一起 add 中間需要有空格**  
 git commit -m "Add [資料夾名稱]"  ###多個檔案也只需要下一次即可  
 git push  
 
