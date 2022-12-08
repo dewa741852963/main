@@ -1,7 +1,9 @@
 # Github上傳方式
- 先打開 Git Bath  
- cd 到你要存放 Github 的位置  
- git clone 你 Github 的網址  
+1. 先打開 Git Bath
+2. cd 到你要存放 Github 的位置
+3. git clone 你 Github 的網址
+   
+   
 
 ## 資料超過25MB
 需要安裝 [git-lfs](https://git-lfs.github.com/)  
