@@ -6,7 +6,7 @@
 
 ---
 * 資料超過25MB  
-*     ji2
+      * ji3jf 
        * 需要安裝 [git-lfs](https://git-lfs.github.com/)  
        * 在每一次上傳一開始都需要下  
 
