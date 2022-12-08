@@ -1,7 +1,8 @@
 # Github上傳方式
-1. 先打開 Git Bath
-2. cd 到你要存放 Github 的位置
-3. git clone 你 Github 的網址
+1. 安裝 Git Bash [windows](https://gitforwindows.org/) [Mac](https://git-scm.com/download/mac)
+2. 打開 Git Bash 
+3. cd 到你要存放 Github 的位置
+4. git clone 你 Github 的網址
    
    
 
