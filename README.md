@@ -2,9 +2,9 @@
 先打開 Git Bath  
 cd 到你要存放 Github 的位置  
 git clone 你 Github 的網址  
---
+---
 ## 資料超過25MB
-需要安裝 <https://git-lfs.github.com/>  
+需要安裝 [git-lfs](https://git-lfs.github.com/)  
 在每一次上傳一開始都需要下  
 
 ```linux
