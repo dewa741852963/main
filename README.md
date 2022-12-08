@@ -18,11 +18,11 @@
 * 創建資料夾  
 		```linux
 		mkdir [資料夾名稱]  
-		touch [資料夾名稱]/[檔案名稱]    
-		git add [資料夾名稱]   
-		git commit -m "Add [資料夾名稱]"    
+		touch [資料夾名稱]/[檔案名稱]     
+		git add [資料夾名稱]  
+		git commit -m "Add [資料夾名稱]"      
 		git pus
-		```
+		```  
 		>**_注意一定要有檔案才可以創建資料夾_**  
 		>**_可以多個檔案一起 add 中間需要有空格_**   
 		>**_多個檔案git commit只需要下一次即可_**
