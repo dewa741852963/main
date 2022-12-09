@@ -10,9 +10,16 @@
 		cd 到你電腦 Github 的位置      
 		git pull
 		```
-	 
-
-
+* 新增 Repositories  
+	* ![alt 文字](https://raw.githubusercontent.com/adam-p/markdown-here/master/src/common/images/icon48.png )
+ 
+		```linux
+		mkdir [資料夾名稱]  
+		touch [資料夾名稱]/[檔案名稱]     
+		git add [資料夾名稱]  
+		git commit -m "Add [資料夾名稱]"      
+		git pus
+		```  
 * 資料超過 25MB 
 	* 需要安裝 [git-lfs](https://git-lfs.github.com/)  
 	* 在每一次上傳一開始都需要下 
