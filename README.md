@@ -8,7 +8,7 @@
 	*  Git Bash 指令 
 		```linux
 		cd 到你電腦 Github 的位置      
-		git p
+		git pull
 		```
 	 
 
