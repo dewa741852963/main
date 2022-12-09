@@ -4,6 +4,14 @@
 3. cd 到你要存放 Github 的位置
 4. git clone 你 Github 的網址
 
+* 同步 Github 和電腦的資料   
+	*  Git Bash 指令 
+		```linux
+		cd 到你電腦 Github 的位置      
+		git p
+		```
+	 
+
 
 * 資料超過 25MB 
 	* 需要安裝 [git-lfs](https://git-lfs.github.com/)  
