@@ -11,7 +11,7 @@
 		git pull
 		```
 * 新增 Repositories  
-	* !(https://ibb.co/m5nX2Sh)
+	* ![](https://upload.cc/i1/2022/12/09/st1ogc.png)
  
 		```linux
 		mkdir [資料夾名稱]  
