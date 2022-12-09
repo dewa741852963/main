@@ -15,6 +15,13 @@
 	* ![](https://upload.cc/i1/2022/12/09/euSPsq.png)
 	* Repository name -> Create repository
 	* ![](https://upload.cc/i1/2022/12/09/15yAc8.png)  
+	
+* 刪除 Repository  
+	* 到要刪除的 Repository -> 點擊 S
+	* ![](https://upload.cc/i1/2022/12/09/vq7T0S.png)
+	* 最下面 -> 點擊 Delete this repository
+	* ![](https://upload.cc/i1/2022/12/09/Gxlrjf.png) 
+
 * 資料超過 25MB 
 	* 需要安裝 [git-lfs](https://git-lfs.github.com/)  
 	* 在每一次上傳一開始都需要下 
