@@ -14,7 +14,7 @@
 	* Github 首頁 -> 點擊 New
 	* ![](https://upload.cc/i1/2022/12/09/euSPsq.png)
 	* Repository name -> Create repository
-	* ![](https://upload.cc/i1/2022/12/09/15yAc8.png)  
+	* ![](https://upload.cc/i1/2022/12/09/LD8Fnu.png)  
 	
 * 刪除 Repository  
 	* 到要刪除的 Repository -> 點擊 S
