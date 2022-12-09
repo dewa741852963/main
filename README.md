@@ -11,7 +11,7 @@
 		git pull
 		```
 * 新增 Repositories  
-	* ![alt 文字](https://raw.githubusercontent.com/adam-p/markdown-here/master/src/common/images/icon48.png )
+	* ![alt 文字](https://ibb.co/m5nX2Sh)
  
 		```linux
 		mkdir [資料夾名稱]  
