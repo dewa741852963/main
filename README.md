@@ -10,9 +10,10 @@
 		cd 到你電腦 Github 的位置      
 		git pull
 		```
-* 新增 Repositories  
+* 新增 Repository  
 	* Github 首頁 -> 點擊 New
 	* ![點擊](https://upload.cc/i1/2022/12/09/euSPsq.png)
+	* Repository name -> Create repository
 	* ![](https://upload.cc/i1/2022/12/09/15yAc8.png)  
 * 資料超過 25MB 
 	* 需要安裝 [git-lfs](https://git-lfs.github.com/)  
