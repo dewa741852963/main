@@ -1,5 +1,5 @@
 # gnuplot 畫圖
-1. 安裝 gnuplot     [gnuplot](http://www.gnuplot.info/download.html)
+1. 安裝 [gnuplot](http://www.gnuplot.info/download.html)
 2. 打開 gnuplot，找到 “bin” 資料夾並記錄路徑
 3. 把此路徑，加到環境變數 Path 下
 4. 打開 Notepad++，新增空白頁並存檔案名稱為"xxx.gp"
