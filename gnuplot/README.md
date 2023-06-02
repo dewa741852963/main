@@ -4,8 +4,9 @@
 3. 把此路徑，加到環境變數 Path 下
 4. 打開 Notepad++，新增空白頁並存檔案名稱為"xxx.gp"
 5. 折線圖參考"plt.gp"的檔案，長條圖參考"k.gp"
-7. 點擊兩下"xxx.gp"，即可執行檔案
-6. gnuplot-zh.pdf 為詳細操做說明
+6. 點擊兩下"xxx.gp"，即可執行檔案
+7. 儲存檔案盡量使用 pdf 的格式，如果真的需要照片請調高 dpi
+8. gnuplot-zh.pdf 為詳細操做說明
 
 ### 參考資料
 1. http://ouc.ai/zhenghaiyong/courses/tutorials/gnuplot/gnuplot-zh.pdf
