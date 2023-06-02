@@ -60,6 +60,7 @@
 	* 把想要上傳的檔案放到相對應的資料夾  
 	* cd 到該資料夾底下
 	* Git Bash 指令  
+	* git status 不用下
 		```linux
 		git add [檔案名稱]    
 		git status    
