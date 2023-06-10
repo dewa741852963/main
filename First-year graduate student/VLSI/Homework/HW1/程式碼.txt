@@ -1,0 +1,43 @@
+module FIR(clk,reset,x,y);
+input [7:0]x;
+input clk,reset;
+output [7:0]y;
+wire [7:0]d1,d2,d3;
+wire [7:0]m1,m2,m3,m4;
+wire [7:0]d11,d12,d13;
+parameter a0=3'b001;
+parameter a1=3'b010;
+parameter a2=3'b011;
+parameter a3=3'b100;
+
+assign m1=x*a0;
+dff u2(clk,reset,x,d11);
+assign m2=d11*a1;
+assign d1=m1+m2;
+dff u4(clk,reset,d11,d12);
+assign m3=d12*a2;
+assign d2=d1+m3;
+dff u6(clk,reset,d12,d13);
+assign m4=d13*a3;
+assign y=d2+m4;
+
+endmodule
+
+module dff(clk,reset,d,q);// sub module d flipflop
+input clk,reset;
+input [7:0]d;
+output [7:0]q;
+reg [7:0]q;
+always@(posedge clk,posedge reset)
+begin
+if(reset) 
+q=0;
+else
+q=d;
+
+
+end
+
+
+
+endmodule
